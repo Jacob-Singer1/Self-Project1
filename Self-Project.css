@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+
+
+/* Navbar */
+.navbar{
+    background-color: rgb(102, 0, 255);
+    width: 100%;
+    border: 5px solid black;
+}
+
+
+
+
+.nav-top{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-left{
+    background-color: aqua;
+}
+
+.nav-right{
+    background-color: brown;
+}
+
+
+
+
+.nav-bottom{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-b-left{
+    background-color:chocolate;
+}
+
+.nav-b-right{
+    background-color: yellow;
+}
